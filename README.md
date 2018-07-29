@@ -1,7 +1,7 @@
-##Infos about numbers!
 I started this project as a create-react-app and have been implementing features, such as redux for the favourites management and layout with the material-ui library.
 
 All data is fetched from http://numbersapi.com/
+
 *API being hosted on http makes it so that I can't directly host a live demo on github. I'm thinking about converting it to https with a proxy later and then adding it;
 
 To run locally, clone or download the repo and run on node prompt:
